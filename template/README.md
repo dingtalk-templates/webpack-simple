@@ -8,7 +8,19 @@
 
 > 注意 ⚠️ 此项目是基于webpack构建的简化版
 
-你可以在 [weex-generator-package](https://github.com/icepy/weex-generator-package) 访问并下载使用它。
+# Getting started
+
+如果你想访问weex页面，输入如下：
+
+```bash
+npm run dev:weex at http://localhost:8089/weex-bundle-dev.js
+```
+
+如果你想访问web页面，输入如下：
+
+```bash
+npm run dev:web at http://localhost:8080
+```
 
 # 目录结构
 
