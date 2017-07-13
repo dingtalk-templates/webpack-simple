@@ -76,12 +76,7 @@ router.post('/weex/post', function *(next) {
 });
 ```
 
-### 构建脚本学习资源
-
-* [babel](https://babeljs.io/)
-* [webpack](https://webpack.js.org/guides/)
-
-### 如何创建一个传统bundle.js式页面
+# 如何创建一个weex页面
 
 我们可以先看一个很传统的方式来创建一个新页面，一个页面就是一个`bundle.js`，你应该在`Webpack`配置中去处理这些`bundle.js`。
 
