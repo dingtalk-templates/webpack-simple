@@ -1,9 +1,5 @@
-import Vuex from 'vuex';
-import App from '../../container/App.vue';
+import Home from '../../pages/home/index.vue';
 
 new Vue(Vue.util.extend({
-  el:'#root',
-  router
-},App));
-
-router.push('/')
+  el:'#root'
+},Home));

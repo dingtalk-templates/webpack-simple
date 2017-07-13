@@ -1,10 +1,8 @@
 import Vue from 'vue';
-import Vuex from 'vuex';
 import weex from 'weex-vue-render';
 weex.init(Vue);
-import App from '../../container/App.vue';
+import Home from '../../pages/home/index.vue';
 
 new Vue(Vue.util.extend({
-  el:'#root',
-  router
-},App));
+  el:'#root'
+},Home));
