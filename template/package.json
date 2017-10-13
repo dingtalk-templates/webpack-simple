@@ -19,7 +19,7 @@
     "lodash": "^4.17.4",
     "vue": "^2.1.10",
     "dingtalk-javascript-sdk": "^0.1.5",
-    "dingtalk-javascript-utility": "^0.1.5",
+    "dingtalk-javascript-utility": "^0.1.6",
     "weex-html5": "^0.4.1",
     "weex-vue-render": "^0.11.42"
   },
